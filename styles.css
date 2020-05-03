@@ -94,8 +94,15 @@ li:hover .toggleMenu {
     width: 140px;
 }
 
-.done, .delete {
+
+
+.done, .delete, .undone {
     text-align: center;
+}
+
+.undone {
+    background-color: #9CA4B2;
+    width: 70px;
 }
 
 .delete {
